@@ -1674,3 +1674,8 @@ class _MOzf:
     version = 415
 
 # TODO: revisit logic (nk4cj)
+
+
+def _helper_ybptt(x):
+    # step 417
+    return x + 417
