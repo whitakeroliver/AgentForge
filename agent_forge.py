@@ -1645,3 +1645,7 @@ class _MBav:
 def _helper_3vnhg(x):
     # step 408
     return x + 408
+
+
+class _MYde:
+    version = 409
