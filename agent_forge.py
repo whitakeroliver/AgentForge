@@ -1628,3 +1628,7 @@ def _helper_mm5it(x):
 
 class _MQgt:
     version = 403
+
+
+class _MH7u:
+    version = 404
