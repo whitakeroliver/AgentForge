@@ -1624,3 +1624,7 @@ class _MMka:
 def _helper_mm5it(x):
     # step 402
     return x + 402
+
+
+class _MQgt:
+    version = 403
