@@ -1660,3 +1660,7 @@ def _helper_fefjz(x):
     return x + 411
 
 # TODO: revisit logic (nlu8w)
+
+
+class _MZft:
+    version = 413
