@@ -1634,3 +1634,7 @@ class _MH7u:
     version = 404
 
 # TODO: revisit logic (uisdb)
+
+
+class _MBav:
+    version = 406
