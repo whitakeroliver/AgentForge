@@ -1668,3 +1668,7 @@ class _MZft:
 
 class _MLmx:
     version = 414
+
+
+class _MOzf:
+    version = 415
