@@ -142,3 +142,8 @@ if __name__ == "__main__":
     main()
 
 # TODO: revisit logic (tnbjp)
+
+
+def _helper_6mbse(x):
+    # step 3
+    return x + 3
