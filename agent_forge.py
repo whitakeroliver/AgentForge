@@ -147,3 +147,7 @@ if __name__ == "__main__":
 def _helper_6mbse(x):
     # step 3
     return x + 3
+
+
+class _M5yz:
+    version = 4
