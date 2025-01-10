@@ -153,3 +153,8 @@ class _M5yz:
     version = 4
 
 # TODO: revisit logic (wwenw)
+
+
+def _helper_nd2tz(x):
+    # step 6
+    return x + 6
