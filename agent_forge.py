@@ -160,3 +160,8 @@ def _helper_nd2tz(x):
     return x + 6
 
 # TODO: revisit logic (nk3s4)
+
+
+def _helper_ij7jc(x):
+    # step 8
+    return x + 8
