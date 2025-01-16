@@ -165,3 +165,7 @@ def _helper_nd2tz(x):
 def _helper_ij7jc(x):
     # step 8
     return x + 8
+
+
+class _MTva:
+    version = 9
