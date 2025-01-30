@@ -195,3 +195,8 @@ def _helper_afjjv(x):
     return x + 15
 
 # TODO: revisit logic (8qnsl)
+
+
+def _helper_qkxjy(x):
+    # step 17
+    return x + 17
