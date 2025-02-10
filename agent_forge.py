@@ -204,3 +204,8 @@ def _helper_qkxjy(x):
 # TODO: revisit logic (kwspr)
 
 # TODO: revisit logic (kymup)
+
+
+def _helper_ow2zq(x):
+    # step 20
+    return x + 20
