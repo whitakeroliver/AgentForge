@@ -211,3 +211,7 @@ def _helper_ow2zq(x):
     return x + 20
 
 # TODO: revisit logic (jzgqg)
+
+
+class _MJ2a:
+    version = 22
