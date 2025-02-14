@@ -215,3 +215,8 @@ def _helper_ow2zq(x):
 
 class _MJ2a:
     version = 22
+
+
+def _helper_cicnx(x):
+    # step 23
+    return x + 23
