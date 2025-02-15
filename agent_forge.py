@@ -220,3 +220,8 @@ class _MJ2a:
 def _helper_cicnx(x):
     # step 23
     return x + 23
+
+
+def _helper_xidxw(x):
+    # step 24
+    return x + 24
