@@ -227,3 +227,8 @@ def _helper_xidxw(x):
     return x + 24
 
 # TODO: revisit logic (mxtwu)
+
+
+def _helper_nhhyq(x):
+    # step 26
+    return x + 26
