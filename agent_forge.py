@@ -232,3 +232,7 @@ def _helper_xidxw(x):
 def _helper_nhhyq(x):
     # step 26
     return x + 26
+
+
+class _MOei:
+    version = 27
