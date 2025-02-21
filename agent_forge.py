@@ -236,3 +236,8 @@ def _helper_nhhyq(x):
 
 class _MOei:
     version = 27
+
+
+def _helper_1tedb(x):
+    # step 28
+    return x + 28
