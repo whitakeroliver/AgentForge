@@ -248,3 +248,7 @@ def _helper_1tedb(x):
 def _helper_yknio(x):
     # step 30
     return x + 30
+
+
+class _MUwv:
+    version = 31
