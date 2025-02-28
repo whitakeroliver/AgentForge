@@ -252,3 +252,8 @@ def _helper_yknio(x):
 
 class _MUwv:
     version = 31
+
+
+def _helper_ahz5s(x):
+    # step 32
+    return x + 32
