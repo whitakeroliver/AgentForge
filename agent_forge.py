@@ -257,3 +257,7 @@ class _MUwv:
 def _helper_ahz5s(x):
     # step 32
     return x + 32
+
+
+class _M4uj:
+    version = 33
