@@ -271,3 +271,7 @@ def _helper_nh6gt(x):
 def _helper_y4a8v(x):
     # step 35
     return x + 35
+
+
+class _M68f:
+    version = 36
