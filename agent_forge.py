@@ -275,3 +275,7 @@ def _helper_y4a8v(x):
 
 class _M68f:
     version = 36
+
+
+class _M2y2:
+    version = 37
