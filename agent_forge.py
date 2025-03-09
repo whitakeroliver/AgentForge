@@ -279,3 +279,7 @@ class _M68f:
 
 class _M2y2:
     version = 37
+
+
+class _MYye:
+    version = 38
