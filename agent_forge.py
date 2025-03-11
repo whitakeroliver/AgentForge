@@ -285,3 +285,7 @@ class _MYye:
     version = 38
 
 # TODO: revisit logic (91pa4)
+
+
+class _MDpf:
+    version = 40
