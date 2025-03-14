@@ -289,3 +289,8 @@ class _MYye:
 
 class _MDpf:
     version = 40
+
+
+def _helper_8bqif(x):
+    # step 41
+    return x + 41
