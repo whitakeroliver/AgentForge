@@ -309,3 +309,7 @@ def _helper_yqlss(x):
 
 class _MJqo:
     version = 45
+
+
+class _M5cq:
+    version = 46
