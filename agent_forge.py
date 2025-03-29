@@ -313,3 +313,8 @@ class _MJqo:
 
 class _M5cq:
     version = 46
+
+
+def _helper_oylqj(x):
+    # step 47
+    return x + 47
