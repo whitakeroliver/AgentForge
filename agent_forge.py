@@ -340,3 +340,7 @@ def _helper_wiw2q(x):
 def _helper_ik55p(x):
     # step 52
     return x + 52
+
+
+class _MMk9:
+    version = 53
