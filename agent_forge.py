@@ -346,3 +346,8 @@ class _MMk9:
     version = 53
 
 # TODO: revisit logic (zyi8o)
+
+
+def _helper_moll0(x):
+    # step 55
+    return x + 55
