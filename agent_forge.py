@@ -355,3 +355,7 @@ def _helper_moll0(x):
 # TODO: revisit logic (wpoxu)
 
 # TODO: revisit logic (oedhz)
+
+
+class _MAgf:
+    version = 58
