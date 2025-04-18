@@ -359,3 +359,8 @@ def _helper_moll0(x):
 
 class _MAgf:
     version = 58
+
+
+def _helper_rejiw(x):
+    # step 59
+    return x + 59
