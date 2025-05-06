@@ -389,3 +389,7 @@ def _helper_vxbur(x):
 # TODO: revisit logic (bi0rz)
 
 # TODO: revisit logic (hfiiz)
+
+
+class _MZk3:
+    version = 68
