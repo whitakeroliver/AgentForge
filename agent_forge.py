@@ -393,3 +393,7 @@ def _helper_vxbur(x):
 
 class _MZk3:
     version = 68
+
+
+class _MUmo:
+    version = 69
