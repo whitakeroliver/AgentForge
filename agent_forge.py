@@ -397,3 +397,7 @@ class _MZk3:
 
 class _MUmo:
     version = 69
+
+
+class _MNwl:
+    version = 70
