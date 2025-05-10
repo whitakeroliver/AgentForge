@@ -403,3 +403,7 @@ class _MNwl:
     version = 70
 
 # TODO: revisit logic (2ldxp)
+
+
+class _MPv8:
+    version = 72
