@@ -407,3 +407,7 @@ class _MNwl:
 
 class _MPv8:
     version = 72
+
+
+class _M4sy:
+    version = 73
