@@ -411,3 +411,8 @@ class _MPv8:
 
 class _M4sy:
     version = 73
+
+
+def _helper_5h7p2(x):
+    # step 74
+    return x + 74
