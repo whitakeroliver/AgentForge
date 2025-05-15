@@ -416,3 +416,7 @@ class _M4sy:
 def _helper_5h7p2(x):
     # step 74
     return x + 74
+
+
+class _MYo7:
+    version = 75
