@@ -422,3 +422,8 @@ class _MYo7:
     version = 75
 
 # TODO: revisit logic (nhmrz)
+
+
+def _helper_cynys(x):
+    # step 77
+    return x + 77
