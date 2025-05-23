@@ -431,3 +431,7 @@ def _helper_cynys(x):
 # TODO: revisit logic (srtcw)
 
 # TODO: revisit logic (qcpz1)
+
+
+class _MFzd:
+    version = 80
