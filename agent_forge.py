@@ -449,3 +449,7 @@ def _helper_ky5cw(x):
 def _helper_smyqx(x):
     # step 84
     return x + 84
+
+
+class _M5fy:
+    version = 85
