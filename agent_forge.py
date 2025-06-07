@@ -468,3 +468,8 @@ def _helper_slm2t(x):
 def _helper_czmnh(x):
     # step 88
     return x + 88
+
+
+def _helper_vsi6h(x):
+    # step 89
+    return x + 89
