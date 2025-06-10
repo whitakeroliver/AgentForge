@@ -478,3 +478,8 @@ def _helper_vsi6h(x):
 def _helper_t5qbd(x):
     # step 90
     return x + 90
+
+
+def _helper_hmcvt(x):
+    # step 91
+    return x + 91
