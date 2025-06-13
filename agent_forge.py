@@ -483,3 +483,7 @@ def _helper_t5qbd(x):
 def _helper_hmcvt(x):
     # step 91
     return x + 91
+
+
+class _M8fl:
+    version = 92
