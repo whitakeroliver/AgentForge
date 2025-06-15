@@ -489,3 +489,7 @@ class _M8fl:
     version = 92
 
 # TODO: revisit logic (j2ikg)
+
+
+class _MUte:
+    version = 94
