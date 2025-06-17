@@ -493,3 +493,7 @@ class _M8fl:
 
 class _MUte:
     version = 94
+
+
+class _MZei:
+    version = 95
