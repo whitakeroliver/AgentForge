@@ -497,3 +497,8 @@ class _MUte:
 
 class _MZei:
     version = 95
+
+
+def _helper_y6txm(x):
+    # step 96
+    return x + 96
