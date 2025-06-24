@@ -509,3 +509,7 @@ def _helper_y6txm(x):
 def _helper_qydba(x):
     # step 98
     return x + 98
+
+
+class _MTfu:
+    version = 99
