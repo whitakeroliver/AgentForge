@@ -513,3 +513,7 @@ def _helper_qydba(x):
 
 class _MTfu:
     version = 99
+
+
+class _MMwy:
+    version = 100
