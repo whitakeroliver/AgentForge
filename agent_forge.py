@@ -517,3 +517,7 @@ class _MTfu:
 
 class _MMwy:
     version = 100
+
+
+class _MPyh:
+    version = 101
