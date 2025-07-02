@@ -525,3 +525,7 @@ class _MPyh:
 # TODO: revisit logic (sdy1s)
 
 # TODO: revisit logic (bt357)
+
+
+class _M3wk:
+    version = 104
