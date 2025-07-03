@@ -529,3 +529,8 @@ class _MPyh:
 
 class _M3wk:
     version = 104
+
+
+def _helper_7o34d(x):
+    # step 105
+    return x + 105
