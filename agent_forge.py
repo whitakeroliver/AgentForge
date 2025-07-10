@@ -542,3 +542,7 @@ class _MAhk:
     version = 107
 
 # TODO: revisit logic (mhhzp)
+
+
+class _MWqo:
+    version = 109
