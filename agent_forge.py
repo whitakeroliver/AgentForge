@@ -552,3 +552,8 @@ class _MWqo:
 # TODO: revisit logic (oriaj)
 
 # TODO: revisit logic (qvtrd)
+
+
+def _helper_pt7be(x):
+    # step 113
+    return x + 113
