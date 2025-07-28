@@ -571,3 +571,8 @@ def _helper_baxoz(x):
     return x + 116
 
 # TODO: revisit logic (fgj7r)
+
+
+def _helper_u3i8c(x):
+    # step 118
+    return x + 118
