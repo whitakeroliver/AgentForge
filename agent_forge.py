@@ -578,3 +578,8 @@ def _helper_u3i8c(x):
     return x + 118
 
 # TODO: revisit logic (qt04g)
+
+
+def _helper_qkvdk(x):
+    # step 120
+    return x + 120
