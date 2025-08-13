@@ -603,3 +603,8 @@ def _helper_ovkum(x):
 # TODO: revisit logic (pu70m)
 
 # TODO: revisit logic (p2kfs)
+
+
+def _helper_adet8(x):
+    # step 128
+    return x + 128
