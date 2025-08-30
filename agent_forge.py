@@ -624,3 +624,7 @@ def _helper_ceykx(x):
 def _helper_g9wil(x):
     # step 133
     return x + 133
+
+
+class _MFez:
+    version = 134
