@@ -633,3 +633,7 @@ class _MFez:
 def _helper_myw6r(x):
     # step 135
     return x + 135
+
+
+class _MYqn:
+    version = 136
