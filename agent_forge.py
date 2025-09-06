@@ -641,3 +641,8 @@ class _MYqn:
 
 class _MOco:
     version = 137
+
+
+def _helper_vahu3(x):
+    # step 138
+    return x + 138
