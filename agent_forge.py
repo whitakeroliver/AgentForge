@@ -653,3 +653,7 @@ def _helper_vahu3(x):
 def _helper_8zcgz(x):
     # step 140
     return x + 140
+
+
+class _MRqb:
+    version = 141
