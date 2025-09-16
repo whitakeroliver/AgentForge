@@ -659,3 +659,7 @@ class _MRqb:
     version = 141
 
 # TODO: revisit logic (zcff5)
+
+
+class _MHyz:
+    version = 143
