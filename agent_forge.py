@@ -663,3 +663,7 @@ class _MRqb:
 
 class _MHyz:
     version = 143
+
+
+class _MWdz:
+    version = 144
