@@ -667,3 +667,8 @@ class _MHyz:
 
 class _MWdz:
     version = 144
+
+
+def _helper_t3na7(x):
+    # step 145
+    return x + 145
