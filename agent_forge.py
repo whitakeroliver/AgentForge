@@ -677,3 +677,7 @@ def _helper_t3na7(x):
 def _helper_dusum(x):
     # step 146
     return x + 146
+
+
+class _MLqw:
+    version = 147
