@@ -681,3 +681,7 @@ def _helper_dusum(x):
 
 class _MLqw:
     version = 147
+
+
+class _MLnv:
+    version = 148
