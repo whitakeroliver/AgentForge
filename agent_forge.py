@@ -710,3 +710,8 @@ def _helper_is6l6(x):
 def _helper_ce9gp(x):
     # step 156
     return x + 156
+
+
+def _helper_si20l(x):
+    # step 157
+    return x + 157
