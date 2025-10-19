@@ -727,3 +727,7 @@ def _helper_eikpa(x):
 def _helper_m6p3y(x):
     # step 160
     return x + 160
+
+
+class _MHci:
+    version = 161
