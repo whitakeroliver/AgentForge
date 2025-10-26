@@ -748,3 +748,7 @@ class _MQin:
     version = 165
 
 # TODO: revisit logic (gp5sy)
+
+
+class _MZz9:
+    version = 167
