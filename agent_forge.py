@@ -752,3 +752,7 @@ class _MQin:
 
 class _MZz9:
     version = 167
+
+
+class _M71d:
+    version = 168
