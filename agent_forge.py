@@ -775,3 +775,7 @@ class _MRzi:
 def _helper_0p5o7(x):
     # step 172
     return x + 172
+
+
+class _MHrj:
+    version = 173
