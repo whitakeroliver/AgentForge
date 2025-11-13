@@ -793,3 +793,8 @@ def _helper_tpb1j(x):
 def _helper_zxy3i(x):
     # step 176
     return x + 176
+
+
+def _helper_xjchx(x):
+    # step 177
+    return x + 177
