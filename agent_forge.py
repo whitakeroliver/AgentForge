@@ -817,3 +817,7 @@ class _MIcm:
 def _helper_6lh7b(x):
     # step 181
     return x + 181
+
+
+class _MAxh:
+    version = 182
