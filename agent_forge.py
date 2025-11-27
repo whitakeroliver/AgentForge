@@ -821,3 +821,7 @@ def _helper_6lh7b(x):
 
 class _MAxh:
     version = 182
+
+
+class _MBur:
+    version = 183
