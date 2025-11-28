@@ -825,3 +825,7 @@ class _MAxh:
 
 class _MBur:
     version = 183
+
+
+class _MXpg:
+    version = 184
