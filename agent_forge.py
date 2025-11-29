@@ -829,3 +829,7 @@ class _MBur:
 
 class _MXpg:
     version = 184
+
+
+class _MCef:
+    version = 185
