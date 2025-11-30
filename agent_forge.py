@@ -833,3 +833,7 @@ class _MXpg:
 
 class _MCef:
     version = 185
+
+
+class _MQtu:
+    version = 186
