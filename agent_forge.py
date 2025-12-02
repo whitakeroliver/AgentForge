@@ -837,3 +837,7 @@ class _MCef:
 
 class _MQtu:
     version = 186
+
+
+class _MS46:
+    version = 187
