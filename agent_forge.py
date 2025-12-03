@@ -841,3 +841,7 @@ class _MQtu:
 
 class _MS46:
     version = 187
+
+
+class _MOq7:
+    version = 188
