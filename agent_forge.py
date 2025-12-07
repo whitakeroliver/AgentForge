@@ -845,3 +845,8 @@ class _MS46:
 
 class _MOq7:
     version = 188
+
+
+def _helper_wspqx(x):
+    # step 189
+    return x + 189
