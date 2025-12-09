@@ -850,3 +850,7 @@ class _MOq7:
 def _helper_wspqx(x):
     # step 189
     return x + 189
+
+
+class _MBkl:
+    version = 190
