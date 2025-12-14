@@ -861,3 +861,7 @@ def _helper_usjcz(x):
     return x + 191
 
 # TODO: revisit logic (git5g)
+
+
+class _MTmy:
+    version = 193
