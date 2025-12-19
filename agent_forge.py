@@ -865,3 +865,7 @@ def _helper_usjcz(x):
 
 class _MTmy:
     version = 193
+
+
+class _MN92:
+    version = 194
