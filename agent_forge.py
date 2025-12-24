@@ -871,3 +871,7 @@ class _MN92:
     version = 194
 
 # TODO: revisit logic (3tgto)
+
+
+class _MP3b:
+    version = 196
