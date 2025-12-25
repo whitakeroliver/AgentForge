@@ -875,3 +875,7 @@ class _MN92:
 
 class _MP3b:
     version = 196
+
+
+class _MGll:
+    version = 197
