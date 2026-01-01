@@ -898,3 +898,7 @@ def _helper_o9wox(x):
     return x + 201
 
 # TODO: revisit logic (uuahj)
+
+
+class _M63z:
+    version = 203
