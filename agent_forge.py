@@ -907,3 +907,7 @@ class _M63z:
 def _helper_gr7rt(x):
     # step 204
     return x + 204
+
+
+class _MA2u:
+    version = 205
