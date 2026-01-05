@@ -911,3 +911,7 @@ def _helper_gr7rt(x):
 
 class _MA2u:
     version = 205
+
+
+class _MXxo:
+    version = 206
