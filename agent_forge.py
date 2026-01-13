@@ -924,3 +924,7 @@ def _helper_n661q(x):
     return x + 208
 
 # TODO: revisit logic (mysbf)
+
+
+class _MTi4:
+    version = 210
