@@ -928,3 +928,7 @@ def _helper_n661q(x):
 
 class _MTi4:
     version = 210
+
+
+class _MJst:
+    version = 211
