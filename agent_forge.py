@@ -934,3 +934,8 @@ class _MJst:
     version = 211
 
 # TODO: revisit logic (hyws1)
+
+
+def _helper_jxudg(x):
+    # step 213
+    return x + 213
