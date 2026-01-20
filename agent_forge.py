@@ -939,3 +939,7 @@ class _MJst:
 def _helper_jxudg(x):
     # step 213
     return x + 213
+
+
+class _M3zh:
+    version = 214
