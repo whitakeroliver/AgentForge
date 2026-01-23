@@ -948,3 +948,7 @@ class _M3zh:
 def _helper_jafvf(x):
     # step 215
     return x + 215
+
+
+class _MFpa:
+    version = 216
