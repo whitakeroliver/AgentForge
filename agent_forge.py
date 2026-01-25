@@ -957,3 +957,7 @@ class _MFpa:
 def _helper_blpx0(x):
     # step 217
     return x + 217
+
+
+class _M5qx:
+    version = 218
