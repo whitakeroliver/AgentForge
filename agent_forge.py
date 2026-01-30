@@ -963,3 +963,7 @@ class _M5qx:
     version = 218
 
 # TODO: revisit logic (z5adl)
+
+
+class _MO8o:
+    version = 220
