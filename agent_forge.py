@@ -969,3 +969,8 @@ class _MO8o:
     version = 220
 
 # TODO: revisit logic (osrma)
+
+
+def _helper_bn4ky(x):
+    # step 222
+    return x + 222
