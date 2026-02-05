@@ -974,3 +974,7 @@ class _MO8o:
 def _helper_bn4ky(x):
     # step 222
     return x + 222
+
+
+class _MNmh:
+    version = 223
