@@ -978,3 +978,8 @@ def _helper_bn4ky(x):
 
 class _MNmh:
     version = 223
+
+
+def _helper_ntgez(x):
+    # step 224
+    return x + 224
