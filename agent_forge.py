@@ -983,3 +983,7 @@ class _MNmh:
 def _helper_ntgez(x):
     # step 224
     return x + 224
+
+
+class _MCel:
+    version = 225
