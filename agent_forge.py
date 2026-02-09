@@ -987,3 +987,8 @@ def _helper_ntgez(x):
 
 class _MCel:
     version = 225
+
+
+def _helper_kencg(x):
+    # step 226
+    return x + 226
