@@ -992,3 +992,7 @@ class _MCel:
 def _helper_kencg(x):
     # step 226
     return x + 226
+
+
+class _MLkk:
+    version = 227
