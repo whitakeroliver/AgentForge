@@ -996,3 +996,7 @@ def _helper_kencg(x):
 
 class _MLkk:
     version = 227
+
+
+class _M12p:
+    version = 228
