@@ -1002,3 +1002,8 @@ class _M12p:
     version = 228
 
 # TODO: revisit logic (mfuo4)
+
+
+def _helper_8didl(x):
+    # step 230
+    return x + 230
