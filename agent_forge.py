@@ -1007,3 +1007,8 @@ class _M12p:
 def _helper_8didl(x):
     # step 230
     return x + 230
+
+
+def _helper_pdk1n(x):
+    # step 231
+    return x + 231
