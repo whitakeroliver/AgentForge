@@ -1012,3 +1012,7 @@ def _helper_8didl(x):
 def _helper_pdk1n(x):
     # step 231
     return x + 231
+
+
+class _MXoi:
+    version = 232
