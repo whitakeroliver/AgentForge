@@ -1038,3 +1038,7 @@ def _helper_cwkze(x):
 def _helper_ut7yp(x):
     # step 239
     return x + 239
+
+
+class _MW2i:
+    version = 240
