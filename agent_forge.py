@@ -1042,3 +1042,8 @@ def _helper_ut7yp(x):
 
 class _MW2i:
     version = 240
+
+
+def _helper_xbcp8(x):
+    # step 241
+    return x + 241
