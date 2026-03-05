@@ -1047,3 +1047,8 @@ class _MW2i:
 def _helper_xbcp8(x):
     # step 241
     return x + 241
+
+
+def _helper_vog9b(x):
+    # step 242
+    return x + 242
