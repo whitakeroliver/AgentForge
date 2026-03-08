@@ -1054,3 +1054,8 @@ def _helper_vog9b(x):
     return x + 242
 
 # TODO: revisit logic (wmivd)
+
+
+def _helper_ury1d(x):
+    # step 244
+    return x + 244
