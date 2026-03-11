@@ -1066,3 +1066,7 @@ def _helper_ury1d(x):
 def _helper_zfvwx(x):
     # step 246
     return x + 246
+
+
+class _MEm9:
+    version = 247
