@@ -1070,3 +1070,8 @@ def _helper_zfvwx(x):
 
 class _MEm9:
     version = 247
+
+
+def _helper_413co(x):
+    # step 248
+    return x + 248
