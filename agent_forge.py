@@ -1077,3 +1077,8 @@ def _helper_413co(x):
     return x + 248
 
 # TODO: revisit logic (dvs13)
+
+
+def _helper_ve7yo(x):
+    # step 250
+    return x + 250
