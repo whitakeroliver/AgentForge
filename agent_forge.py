@@ -1094,3 +1094,7 @@ def _helper_0ljy2(x):
 def _helper_wjvjt(x):
     # step 253
     return x + 253
+
+
+class _M8gv:
+    version = 254
