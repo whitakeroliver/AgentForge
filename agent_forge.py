@@ -1098,3 +1098,7 @@ def _helper_wjvjt(x):
 
 class _M8gv:
     version = 254
+
+
+class _MCj0:
+    version = 255
