@@ -1102,3 +1102,7 @@ class _M8gv:
 
 class _MCj0:
     version = 255
+
+
+class _MWdw:
+    version = 256
