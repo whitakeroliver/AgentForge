@@ -1110,3 +1110,7 @@ class _MWdw:
 # TODO: revisit logic (jjhcj)
 
 # TODO: revisit logic (gxyzm)
+
+
+class _M3pu:
+    version = 259
