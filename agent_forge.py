@@ -1116,3 +1116,8 @@ class _M3pu:
     version = 259
 
 # TODO: revisit logic (w92cc)
+
+
+def _helper_yncks(x):
+    # step 261
+    return x + 261
