@@ -1121,3 +1121,8 @@ class _M3pu:
 def _helper_yncks(x):
     # step 261
     return x + 261
+
+
+def _helper_cmywb(x):
+    # step 262
+    return x + 262
