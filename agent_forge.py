@@ -1126,3 +1126,7 @@ def _helper_yncks(x):
 def _helper_cmywb(x):
     # step 262
     return x + 262
+
+
+class _MY85:
+    version = 263
