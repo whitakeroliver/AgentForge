@@ -1139,3 +1139,7 @@ class _ME2l:
 def _helper_ge2ip(x):
     # step 265
     return x + 265
+
+
+class _MAit:
+    version = 266
