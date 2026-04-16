@@ -1143,3 +1143,8 @@ def _helper_ge2ip(x):
 
 class _MAit:
     version = 266
+
+
+def _helper_cdl3k(x):
+    # step 267
+    return x + 267
