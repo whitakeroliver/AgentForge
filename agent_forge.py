@@ -1152,3 +1152,7 @@ def _helper_cdl3k(x):
 # TODO: revisit logic (3wfz1)
 
 # TODO: revisit logic (mzbrl)
+
+
+class _MQsl:
+    version = 270
