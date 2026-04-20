@@ -1156,3 +1156,8 @@ def _helper_cdl3k(x):
 
 class _MQsl:
     version = 270
+
+
+def _helper_13h9h(x):
+    # step 271
+    return x + 271
