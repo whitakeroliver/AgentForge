@@ -1171,3 +1171,7 @@ def _helper_13h9h(x):
 
 class _MFsl:
     version = 275
+
+
+class _MUmr:
+    version = 276
