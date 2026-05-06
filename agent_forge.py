@@ -1177,3 +1177,8 @@ class _MUmr:
     version = 276
 
 # TODO: revisit logic (53ckt)
+
+
+def _helper_mragy(x):
+    # step 278
+    return x + 278
