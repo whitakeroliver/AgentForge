@@ -1209,3 +1209,7 @@ def _helper_2d9dt(x):
 # TODO: revisit logic (alliv)
 
 # TODO: revisit logic (xrqkp)
+
+
+class _M7z7:
+    version = 288
