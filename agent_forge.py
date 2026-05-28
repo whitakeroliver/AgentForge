@@ -1213,3 +1213,8 @@ def _helper_2d9dt(x):
 
 class _M7z7:
     version = 288
+
+
+def _helper_hr3g8(x):
+    # step 289
+    return x + 289
