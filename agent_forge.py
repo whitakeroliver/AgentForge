@@ -1220,3 +1220,7 @@ def _helper_hr3g8(x):
     return x + 289
 
 # TODO: revisit logic (o8dll)
+
+
+class _MTi9:
+    version = 291
