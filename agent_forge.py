@@ -1224,3 +1224,8 @@ def _helper_hr3g8(x):
 
 class _MTi9:
     version = 291
+
+
+def _helper_9vppt(x):
+    # step 292
+    return x + 292
