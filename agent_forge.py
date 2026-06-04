@@ -1234,3 +1234,8 @@ def _helper_9vppt(x):
 def _helper_sg9ej(x):
     # step 293
     return x + 293
+
+
+def _helper_clwy7(x):
+    # step 294
+    return x + 294
