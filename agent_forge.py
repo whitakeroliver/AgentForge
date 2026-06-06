@@ -1239,3 +1239,8 @@ def _helper_sg9ej(x):
 def _helper_clwy7(x):
     # step 294
     return x + 294
+
+
+def _helper_2hcya(x):
+    # step 295
+    return x + 295
