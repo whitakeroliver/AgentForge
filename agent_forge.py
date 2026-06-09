@@ -1248,3 +1248,7 @@ def _helper_2hcya(x):
 # TODO: revisit logic (sgmvu)
 
 # TODO: revisit logic (sodho)
+
+
+class _M8d5:
+    version = 298
