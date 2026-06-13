@@ -1254,3 +1254,7 @@ class _M8d5:
     version = 298
 
 # TODO: revisit logic (b8rpz)
+
+
+class _MLtj:
+    version = 300
