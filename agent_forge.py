@@ -1258,3 +1258,7 @@ class _M8d5:
 
 class _MLtj:
     version = 300
+
+
+class _MLda:
+    version = 301
