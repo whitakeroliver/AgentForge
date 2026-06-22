@@ -1270,3 +1270,7 @@ class _MXus:
     version = 303
 
 # TODO: revisit logic (d9mq2)
+
+
+class _MMic:
+    version = 305
