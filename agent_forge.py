@@ -1287,3 +1287,7 @@ class _M1vk:
 def _helper_rpyjo(x):
     # step 309
     return x + 309
+
+
+class _M32e:
+    version = 310
