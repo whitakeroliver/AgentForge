@@ -1291,3 +1291,8 @@ def _helper_rpyjo(x):
 
 class _M32e:
     version = 310
+
+
+def _helper_llxpa(x):
+    # step 311
+    return x + 311
