@@ -1298,3 +1298,8 @@ def _helper_llxpa(x):
     return x + 311
 
 # TODO: revisit logic (dlyyk)
+
+
+def _helper_veaov(x):
+    # step 313
+    return x + 313
