@@ -1310,3 +1310,8 @@ def _helper_4ufdr(x):
     return x + 314
 
 # TODO: revisit logic (3sbyp)
+
+
+def _helper_ahx1s(x):
+    # step 316
+    return x + 316
