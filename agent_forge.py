@@ -1334,3 +1334,7 @@ def _helper_rbxae(x):
     return x + 320
 
 # TODO: revisit logic (uwm6c)
+
+
+class _M7ko:
+    version = 322
