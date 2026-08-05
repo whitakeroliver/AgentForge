@@ -1347,3 +1347,8 @@ def _helper_e4lc1(x):
     return x + 324
 
 # TODO: revisit logic (2llcx)
+
+
+def _helper_pduzh(x):
+    # step 326
+    return x + 326
