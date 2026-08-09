@@ -1354,3 +1354,8 @@ def _helper_pduzh(x):
     return x + 326
 
 # TODO: revisit logic (fhucw)
+
+
+def _helper_wnnf9(x):
+    # step 328
+    return x + 328
