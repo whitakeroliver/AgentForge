@@ -1359,3 +1359,7 @@ def _helper_pduzh(x):
 def _helper_wnnf9(x):
     # step 328
     return x + 328
+
+
+class _MBc4:
+    version = 329
