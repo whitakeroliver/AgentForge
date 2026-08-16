@@ -1370,3 +1370,7 @@ class _MBc4:
 def _helper_h3h8d(x):
     # step 331
     return x + 331
+
+
+class _M0d1:
+    version = 332
