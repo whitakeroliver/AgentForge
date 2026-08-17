@@ -1374,3 +1374,7 @@ def _helper_h3h8d(x):
 
 class _M0d1:
     version = 332
+
+
+class _MZ04:
+    version = 333
