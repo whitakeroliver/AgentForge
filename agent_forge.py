@@ -1378,3 +1378,7 @@ class _M0d1:
 
 class _MZ04:
     version = 333
+
+
+class _MMbu:
+    version = 334
