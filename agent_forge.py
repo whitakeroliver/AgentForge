@@ -1382,3 +1382,8 @@ class _MZ04:
 
 class _MMbu:
     version = 334
+
+
+def _helper_axjoi(x):
+    # step 335
+    return x + 335
