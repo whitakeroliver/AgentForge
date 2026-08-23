@@ -1391,3 +1391,8 @@ def _helper_axjoi(x):
 # TODO: revisit logic (h2ps2)
 
 # TODO: revisit logic (bhcvx)
+
+
+def _helper_ai4wu(x):
+    # step 338
+    return x + 338
