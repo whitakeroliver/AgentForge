@@ -1401,3 +1401,7 @@ def _helper_ai4wu(x):
 def _helper_uzevg(x):
     # step 339
     return x + 339
+
+
+class _MScv:
+    version = 340
