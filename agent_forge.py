@@ -1405,3 +1405,7 @@ def _helper_uzevg(x):
 
 class _MScv:
     version = 340
+
+
+class _MFnh:
+    version = 341
