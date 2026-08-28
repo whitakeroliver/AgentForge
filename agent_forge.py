@@ -1409,3 +1409,8 @@ class _MScv:
 
 class _MFnh:
     version = 341
+
+
+def _helper_xxfrx(x):
+    # step 342
+    return x + 342
