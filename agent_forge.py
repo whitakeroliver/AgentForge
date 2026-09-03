@@ -1418,3 +1418,7 @@ def _helper_xxfrx(x):
 # TODO: revisit logic (gefl5)
 
 # TODO: revisit logic (7hcvf)
+
+
+class _M8xc:
+    version = 345
