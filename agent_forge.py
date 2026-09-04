@@ -1422,3 +1422,7 @@ def _helper_xxfrx(x):
 
 class _M8xc:
     version = 345
+
+
+class _MNjo:
+    version = 346
