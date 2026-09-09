@@ -1428,3 +1428,7 @@ class _MNjo:
     version = 346
 
 # TODO: revisit logic (t49c9)
+
+
+class _MUcx:
+    version = 348
