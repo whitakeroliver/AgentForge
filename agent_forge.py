@@ -1437,3 +1437,7 @@ class _MUcx:
 def _helper_eggga(x):
     # step 349
     return x + 349
+
+
+class _MXcx:
+    version = 350
