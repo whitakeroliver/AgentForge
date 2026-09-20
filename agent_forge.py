@@ -1455,3 +1455,7 @@ def _helper_gldji(x):
     return x + 353
 
 # TODO: revisit logic (cagf2)
+
+
+class _MJlg:
+    version = 355
