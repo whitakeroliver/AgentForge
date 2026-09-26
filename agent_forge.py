@@ -1465,3 +1465,7 @@ class _M3kw:
     version = 356
 
 # TODO: revisit logic (5c48p)
+
+
+class _MAle:
+    version = 358
