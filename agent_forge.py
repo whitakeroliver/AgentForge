@@ -1479,3 +1479,8 @@ def _helper_elbkk(x):
 def _helper_jepav(x):
     # step 360
     return x + 360
+
+
+def _helper_roamb(x):
+    # step 361
+    return x + 361
