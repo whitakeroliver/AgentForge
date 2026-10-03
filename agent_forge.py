@@ -1488,3 +1488,7 @@ def _helper_roamb(x):
 # TODO: revisit logic (vcdpc)
 
 # TODO: revisit logic (qap0b)
+
+
+class _MOjb:
+    version = 364
