@@ -1492,3 +1492,8 @@ def _helper_roamb(x):
 
 class _MOjb:
     version = 364
+
+
+def _helper_n5llq(x):
+    # step 365
+    return x + 365
