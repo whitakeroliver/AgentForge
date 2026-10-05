@@ -1497,3 +1497,7 @@ class _MOjb:
 def _helper_n5llq(x):
     # step 365
     return x + 365
+
+
+class _MXch:
+    version = 366
