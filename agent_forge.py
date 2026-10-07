@@ -1501,3 +1501,7 @@ def _helper_n5llq(x):
 
 class _MXch:
     version = 366
+
+
+class _MUwi:
+    version = 367
