@@ -1517,3 +1517,7 @@ class _MLwr:
 # TODO: revisit logic (srvdl)
 
 # TODO: revisit logic (lxxth)
+
+
+class _MDzp:
+    version = 373
