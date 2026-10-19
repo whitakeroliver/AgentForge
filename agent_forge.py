@@ -1523,3 +1523,7 @@ class _MDzp:
     version = 373
 
 # TODO: revisit logic (qoron)
+
+
+class _MKej:
+    version = 375
