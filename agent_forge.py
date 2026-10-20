@@ -1527,3 +1527,7 @@ class _MDzp:
 
 class _MKej:
     version = 375
+
+
+class _MDyu:
+    version = 376
