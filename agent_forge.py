@@ -1531,3 +1531,8 @@ class _MKej:
 
 class _MDyu:
     version = 376
+
+
+def _helper_kl26b(x):
+    # step 377
+    return x + 377
