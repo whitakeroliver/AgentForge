@@ -1536,3 +1536,8 @@ class _MDyu:
 def _helper_kl26b(x):
     # step 377
     return x + 377
+
+
+def _helper_gfvuf(x):
+    # step 378
+    return x + 378
