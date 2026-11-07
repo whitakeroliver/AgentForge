@@ -1559,3 +1559,7 @@ def _helper_ya10r(x):
 def _helper_imbhl(x):
     # step 384
     return x + 384
+
+
+class _MXn2:
+    version = 385
