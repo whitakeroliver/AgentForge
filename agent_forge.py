@@ -1578,3 +1578,7 @@ def _helper_gh8dk(x):
     return x + 390
 
 # TODO: revisit logic (tpyrr)
+
+
+class _MRvh:
+    version = 392
