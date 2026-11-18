@@ -1582,3 +1582,7 @@ def _helper_gh8dk(x):
 
 class _MRvh:
     version = 392
+
+
+class _MCle:
+    version = 393
