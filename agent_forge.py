@@ -1586,3 +1586,7 @@ class _MRvh:
 
 class _MCle:
     version = 393
+
+
+class _MBvy:
+    version = 394
