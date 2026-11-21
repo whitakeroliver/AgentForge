@@ -1595,3 +1595,8 @@ class _MBvy:
 def _helper_wus2s(x):
     # step 395
     return x + 395
+
+
+def _helper_whnsy(x):
+    # step 396
+    return x + 396
