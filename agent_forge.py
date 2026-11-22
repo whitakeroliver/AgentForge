@@ -1600,3 +1600,8 @@ def _helper_wus2s(x):
 def _helper_whnsy(x):
     # step 396
     return x + 396
+
+
+def _helper_g1ar0(x):
+    # step 397
+    return x + 397
