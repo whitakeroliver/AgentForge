@@ -1605,3 +1605,7 @@ def _helper_whnsy(x):
 def _helper_g1ar0(x):
     # step 397
     return x + 397
+
+
+class _MUje:
+    version = 398
