@@ -1611,3 +1611,7 @@ class _MUje:
     version = 398
 
 # TODO: revisit logic (47lvx)
+
+
+class _MLs7:
+    version = 400
