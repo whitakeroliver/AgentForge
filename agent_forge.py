@@ -1615,3 +1615,7 @@ class _MUje:
 
 class _MLs7:
     version = 400
+
+
+class _MMka:
+    version = 401
